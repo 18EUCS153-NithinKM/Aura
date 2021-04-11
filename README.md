@@ -7,7 +7,7 @@ I chose my four singers they are as follows,
 - Shawn Mendes
 
 ## Screenshot
-<img src="music.png" height="300em" />
+<img src="music.jpeg" height="300em" />
 
 ## What does the app do?
 - Play random music of the artist when clicked at the artist.
